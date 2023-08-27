@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hasanhumbet2004@gmail.com**
 
-- ⚡ Fun fact **I am not gay**
+- ⚡ Fun fact **nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
