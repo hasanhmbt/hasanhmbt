@@ -3,7 +3,7 @@
 
  
 <h1 align="center">Hi Im Hasan Humbetov, Im trying to be developer and make games, API's, websites etc. </h1>
-<h3 align="center">A passionate backend developer from home,C# is my specialty  </h3>
+<h3 align="center">A passionate backend developer from home, C# is my specialty  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanhmbt&label=Profile%20views&color=0e75b6&style=flat" alt="hasanhmbt" /> </p>
 
